@@ -11,3 +11,7 @@ N
 contracts/policy-issuance.clar,f/6/f6027ac55885e458cc684b4c8c22853adafece0c
 M
 tests/policy-issuance.test.ts,0/7/07d23e5a06f9db1893a264cc84537d6af3a2c1f3
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
