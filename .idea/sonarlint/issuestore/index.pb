@@ -15,3 +15,7 @@ N
 contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+M
+contracts/weather-oracle.clar,9/1/91996854794d2cec790d71498b2a388f98be7d49
+L
+tests/weather-oracle.test.ts,4/8/48ed39849482aa0c44e2c7a0e8fffba5f92614e5

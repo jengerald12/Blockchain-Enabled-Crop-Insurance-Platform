@@ -5,7 +5,6 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-
 [contracts.policy-issuance]
 path = 'contracts/policy-issuance.clar'
 clarity_version = 2
@@ -13,6 +12,11 @@ epoch = 2.5
 
 [contracts.risk-assessment]
 path = 'contracts/risk-assessment.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.weather-oracle]
+path = 'contracts/weather-oracle.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
